@@ -1,2 +1,3 @@
 # learning
-learning to code
+just a dude trying to learn coding
+
